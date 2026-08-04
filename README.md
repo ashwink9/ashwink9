@@ -14,14 +14,6 @@ I enjoy bridging business and technical teams, resolving metric ambiguity, and b
 `Snowflake` `BigQuery` `Amazon Redshift` `dbt` `Airflow`
 `AWS` `GCP` `Azure` `ETL/ELT` `Data Modeling` `APIs`
 
-## A Bit About Me
-
-* Led a zero-downtime migration of 25M+ records and 200+ tables from Snowflake to BigQuery
-* Reduced key reporting workloads from 45 minutes to 3 minutes
-* Built fraud analytics that contributed to a 2.5% reduction in delinquency
-* Developed customer and campaign analytics that improved ROI by 35%
-* Built data and BI solutions across logistics, e-commerce, healthcare, and marketing
-
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/ashwin-nair91/) ·
